@@ -6,8 +6,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/CodersSquad/dc-final/controller"
-	"github.com/CodersSquad/dc-final/scheduler"
+	"github.com/obedmr/dc-final/controller"
+	"github.com/obedmr/dc-final/scheduler"
 )
 
 func main() {
